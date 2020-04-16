@@ -1,0 +1,10 @@
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\bin\Debug\AccessModifiers_Ex.exe.config
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\bin\Debug\AccessModifiers_Ex.exe
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\bin\Debug\AccessModifiers_Ex.pdb
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\bin\Debug\Amazon.dll
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\bin\Debug\Amazon.pdb
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\obj\Debug\AccessModifiers_Ex.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\obj\Debug\AccessModifiers_Ex.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\obj\Debug\AccessModifiers_Ex.csproj.CopyComplete
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\obj\Debug\AccessModifiers_Ex.exe
+D:\VisualStudioCodes\C# Intermediate\AccessModifiers_Ex\AccessModifiers_Ex\obj\Debug\AccessModifiers_Ex.pdb
