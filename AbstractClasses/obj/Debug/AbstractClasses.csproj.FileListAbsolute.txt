@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\VisualStudioCodes\C# Intermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
