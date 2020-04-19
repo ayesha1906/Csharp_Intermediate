@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\bin\Debug\Exercise_4.exe.config
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\bin\Debug\Exercise_4.exe
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\bin\Debug\Exercise_4.pdb
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\obj\Debug\Exercise_4.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\obj\Debug\Exercise_4.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\obj\Debug\Exercise_4.exe
+D:\VisualStudioCodes\C# Intermediate\Exercise_4\Exercise_4\obj\Debug\Exercise_4.pdb
