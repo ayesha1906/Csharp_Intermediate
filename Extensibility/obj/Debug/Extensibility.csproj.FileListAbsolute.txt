@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\obj\Debug\Extensibility.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\obj\Debug\Extensibility.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+D:\VisualStudioCodes\C# Intermediate\Extensibility\Extensibility\obj\Debug\Extensibility.pdb

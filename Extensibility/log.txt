@@ -1,0 +1,2 @@
+ERROR: Migration started at 4/22/2020 5:41:39 PM
+ERROR: Migration finished at 4/22/2020 5:41:39 PM
