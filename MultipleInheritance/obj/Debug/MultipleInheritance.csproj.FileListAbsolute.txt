@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+D:\VisualStudioCodes\C# Intermediate\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb
